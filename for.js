@@ -27,9 +27,9 @@ if (numeroPar === 0) {
 numeroPar = cantidad % 2 === 0 ? "es par" : "es impar"
 console.log(numeroPar)
 
-// for (let i = 0; i <=contador; i++) {
-//   suma = contador
-// }
+for (let i = 0; i <=contador; i++) {
+  console.log(numeros[i])
+}
 // console.log(valordei)
 // console.log(diasDeLaSemana)
 // console.log(i)
